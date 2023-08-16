@@ -1,0 +1,1 @@
+# cscart-hide-credit-card-info
