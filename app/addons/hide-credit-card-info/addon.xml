@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<addon scheme='2.0'>
+    <id>hide-credit-card-info</id>
+    <version>1.0</version>
+    <name>Hide Credit Card Info</name>
+    <description>Hide credit cart infomation of order detail page</description>
+    <priority>100500</priority>
+</addon>
